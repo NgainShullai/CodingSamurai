@@ -8,7 +8,7 @@ DATA SCIENCE INTERNSHIP (TASK 1)
 ## Presentations and Projects
 
 ### Seattle Airbnb Market Analysis Presentation
-This presentation provides an overview of the Seattle Airbnb market, including key trends and insights. You can find the PowerPoint file here: [Seattle Airbnb Market Analysis Presentation]([link-to-your-powerpoint-file](https://docs.google.com/presentation/d/1JTvc13nOmNuL4kDo0xQAi4X7VbGpjYCd/edit?usp=drive_link&ouid=112239983230799440814&rtpof=true&sd=true))
+This presentation provides an overview of the Seattle Airbnb market, including key trends and insights. You can find the PowerPoint file here: [Seattle Airbnb Market Analysis Presentation]([[link-to-your-powerpoint-file](https://docs.google.com/presentation/d/1JTvc13nOmNuL4kDo0xQAi4X7VbGpjYCd/edit?usp=drive_link&ouid=112239983230799440814&rtpof=true&sd=true))
 
 ### Seattle Airbnb Analysis
 This file contains a comprehensive analysis of the Seattle Airbnb market, including data visualizations, statistical analysis, and insights into the market. Check out the analysis file here: [Seattle Airbnb Analysis]([link-to-your-analysis-file](https://github.com/NgainShullai/CodingSamurai/blob/main/SeattleAirbnbDataset.ipynb))
