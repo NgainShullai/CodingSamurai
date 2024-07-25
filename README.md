@@ -1,9 +1,9 @@
 # CodingSamurai
 DATA SCIENCE INTERNSHIP (TASK 1)
 
-## PPT Presentation Link
+# 1. PPT Presentation Link
 
-# Seattle Airbnb Market Analysis
+# 2. Seattle Airbnb Market Analysis
 
 ## Presentations and Projects
 
