@@ -5,6 +5,8 @@ DATA SCIENCE INTERNSHIP (TASK 1)
 
 # 2. Seattle Airbnb Market Analysis
 
+# 3. Python Code Video Presentation Airbnb Analysis
+
 ## Presentations and Projects
 
 ### Seattle Airbnb Market Analysis Presentation
@@ -12,6 +14,9 @@ This presentation provides an overview of the Seattle Airbnb market, including k
 
 ### Seattle Airbnb Analysis
 This file contains a comprehensive analysis of the Seattle Airbnb market, including data visualizations, statistical analysis, and insights into the market. Check out the analysis file here: [Seattle Airbnb Analysis](https://github.com/NgainShullai/CodingSamurai/blob/main/SeattleAirbnbDataset.ipynb)
+
+### Python Code Video Presentation Airbnb Analysis
+This file contains a Video Presentation of the Seattle Airbnb market, including data visualizations, statistical analysis, and insights into the market. Check out the analysis file here: [Seattle Airbnb Analysis](https://drive.google.com/file/d/1TNJLhw_Lk2MkKB0DI8BjXLoLZc2iXUdg/view?usp=drive_link)
 
 ## Project Overview
 In this project, we performed an in-depth exploratory data analysis (EDA) of Airbnb listings in Seattle. The analysis includes:
